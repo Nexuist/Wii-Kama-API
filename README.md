@@ -1,8 +1,16 @@
 ### Introduction
 
+Some test code hacked out on October 12, 2015 to use a bluetooth [Nyko Kama](https://en.wikipedia.org/wiki/Nyko_Kama) with an Arduino. Requires the [Nunchucky](https://www.adafruit.com/product/345) breakout adapter.
+
 ### WIP
 
+This is a work in progress. Nothing is really finished yet, and the code + README will be improved when I work on this project again.
+
 ### Credits
+
+* GitHub user [MartyMacGyver](https://github.com/MartyMacGyver) made a cool [repo](https://github.com/MartyMacGyver/Arduino-LEDs_and_Nunchucks/) and accompanying [video](https://youtu.be/u2DDS0awooM) that helped jumpstart this project.
+
+* https://github.com/todbot/wiichuck_adapter and http://todbot.com/blog/2008/02/18/wiichuck-wii-nunchuck-adapter-available/
 
 ### License
 ```
